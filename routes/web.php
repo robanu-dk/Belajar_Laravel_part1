@@ -40,3 +40,5 @@ Route::get('/tentang+organisasi', [AboutController::class,'aboutOrganization']);
 Route::get('/tentang+jimmonshop', [AboutController::class,'aboutJimmonshop']);
 
 Route::get('/customer+services', [AboutController::class,'customer_services']);
+
+// sss
